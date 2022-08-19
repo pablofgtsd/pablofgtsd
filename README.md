@@ -6,7 +6,7 @@
 # 👀 I’m interested in aprender
 # 🌱 I’m currently learning guthub
 # 💞️ I’m looking to collaborate on tudo
-# 📫 How to reach me pablo.henriquede.almeida@gmial.com
+# 📫 How to reach me pablo.henriquede.almeida@escola.pr.gov.br
 
 <!---
 pablofgtsd/pablofgtsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
